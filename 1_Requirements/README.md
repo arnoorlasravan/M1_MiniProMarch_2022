@@ -36,5 +36,9 @@
      * Build - windows and Linux
      * Unit testing
      * Analysis
+   
+   # practice
+   * Certificate
+   * HackerEarth
      
      
