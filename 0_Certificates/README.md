@@ -1,4 +1,5 @@
 # Certificates
 * Sololearn Certificate
-* NDG Linux
+* NDG Linux certificate
+* Git training certificate
 * First day On Github **Screenshot**
