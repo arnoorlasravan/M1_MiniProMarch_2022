@@ -1,7 +1,7 @@
 # M1_MiniProMarch_2022
 Naming convention: "My_MiniProjectGoal"
 # PhoneBook system
-
+![code quality score](https://app.codacy.com/gh/arnoorlasravan/M1_MiniProMarch_2022/dashboard?branch=main)
 
 
 ## Folder Structure
