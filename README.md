@@ -3,12 +3,6 @@ Naming convention: "My_MiniProjectGoal"
 # PhoneBook system
 
 
-# SDLC Activity Based Learning
-
-Build | Code Quality | Unity | [Git Inspector](using github.io option) | Codacy Badge |
-------|----------|-------|--------------|-----------|
-[![C/C++ CI]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md PhoneBook_Manager/actions/workflows/cppcheck.yml/badge.svg)]) https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md[![Dynamic Valgrind]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md [![Code Coverage]]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md (https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gcov.yml) | [![Unity - Unit Testing]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md]https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md (https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/unity.yml| [![Git Inspector]](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gitinspector.yml)https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5b0a93577704f22b8424c6fa71b19dc)](https://https://github.com/arnoorlasravan/M1_MiniProMarch_2022/edit/main/README.md?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=/Stepin-PhoneBook_Manager&amp;utm_campaign=Agradge_Grade)
-
 
 ## Folder Structure
 Folder             | Description
@@ -18,26 +12,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
-## Contributors List and Summary
 
-PS Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`96669008` | arnoorlasravan  | F_01, F_02, F_03, F_04, F_05, F_06, F_07, F_08, F_09, F_10, F_11   | 2     | 1   |5  |5     
-   
-
-| Feature Id | Feature |
-| -----------|---------|
-|F_01| Option to load older saved data from file |
-|F_02| Save new data to file if only data is added |
-|F_03| Add Contacts |
-|F_04| Display All Contacts |
-|F_05| Search contact by first name  |
-|F_06| Search Contact by Last Name |
-|F_07| Search Contact by Phone Number |
-|F_08| Search Contact by Email Id |
-|F_09| Sort Contacts Alphabeticaly and display |
-|F_10| Save Data to a File |
-|F_11| Usage of dynamic memory allocation, files, structures and pointers |
 
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
