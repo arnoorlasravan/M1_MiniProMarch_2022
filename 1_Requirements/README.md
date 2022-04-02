@@ -45,11 +45,11 @@ A phonebook manager is a software program that enables users to easily store and
 # Detail Requirements
 
 # High Level Requirements
-     |     ID      |     	Description    |	   Status          |   
-     |     HR01    |       Main Menu	    |    Implemented     |
-     |     HR02	   |     Data Storing	   |    Implemented     |
-HR03	Data Retrieval	Implemented
-HR04	Graphical User Interface	Future
+     |    ID       |	Description      | Status          |   
+     |    HR01     | Main Menu	       | Implemented     |
+     |    HR02	    | Data Storing	    | Implemented     |
+     |    HR03	    | Data Retrieval	  | Implemented     |
+     |    HR04     | Graphical User   | Interface	Future|
 Low Level Requirements
 ID	Description	HR ID	Status
 LR01	New contact shall be added by providing all the needed information and stored into structure.	HR01	Implemented
