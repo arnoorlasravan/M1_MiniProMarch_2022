@@ -66,3 +66,8 @@ A phonebook manager is a software program that enables users to easily store and
      |          | file" and should not end the program execution	                                               | HR03    |Implemented|                    
      | LR07	    | A clean graphical user interface with all required buttons for ease of use                    |	HR04    |Implemented| 
      
+     |  ID      |	                     Description                                                              |	  HR I   |	Status    |
+ | LR01	| New contact shall be added by providing all the needed information and stored into structure .    |          |mplemented  |
+ | LR02     |	Reading contact data is be possible in 5 ways, first being by searching by first name,        |          |            |
+ |          | last name, phone number email id and by printing all the contacts available                       |HR0       |Implemented |
+ | LR03	| All the data should be stored into a file when user wants to d                                    |	HR04     |Implemented | 
