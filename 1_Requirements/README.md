@@ -46,24 +46,24 @@ A phonebook manager is a software program that enables users to easily store and
 
 # High Level Requirements
 
-|    ID       |	 Description        |Status          |   
-|    HR01     |  Main Menu	         |Implemented     |
-|    HR02	    |  Data Storing	      |Implemented     |
-|    HR03	    |  Data Retrieval	    |Implemented     |
-|    HR04     |  Graphical User     |Interface	Future|
+     |    ID       |	 Description        |Status          |   
+     |    HR01     |  Main Menu	         |Implemented     |
+     |    HR02	    |  Data Storing	      |Implemented     |
+     |    HR03	    |  Data Retrieval	    |Implemented     |
+     |    HR04     |  Graphical User     |Interface	Future|
      
 # Low Level Requirements
 
- |  ID      |	                     Description                                                              |	  HR I  |	Status    |
- | LR01	    | New contact shall be added by providing all the needed information and stored into structure .|  	HR01	 |Implemented|
- | LR02     |	Reading contact data is be possible in 5 ways, first being by searching by first name,        |         |           |
- |          | last name, phone number email id and by printing all the contacts available                   |	HR01	   |Implemented|
- | LR03	    | All the data should be stored into a file when user wants to do it.	                          | HR02    |Implemented|
- | LR04	    | If user searches for an invalid key "Contact not found" message should be displayed	          | HR03	   |Implemented|
- | LR05	    | User shall be able to save the files, if file already exists then it should append to file    |         |           |
- |          | and should not overwrite it and if file does not exists then it should create a new file      |	HR02	   |Implemented|
- | LR06     |	If opening of the file fails, then the system should display "Error Cannot load the database  |         |           | 
- |          | file" and should not end the program execution	                                               | HR03    |Implemented|                    
- | LR07	    | A clean graphical user interface with all required buttons for ease of use                    |	HR04    |Implemented| 
+       |  ID      |	                     Description                                                              |	  HR I  |	Status    |
+       | LR01	    | New contact shall be added by providing all the needed information and stored into structure .|  	HR01	 |Implemented|
+       | LR02     |	Reading contact data is be possible in 5 ways, first being by searching by first name,        |         |           |
+       |          | last name, phone number email id and by printing all the contacts available                   |	HR01	   |Implemented|
+       | LR03	    | All the data should be stored into a file when user wants to do it.	                          | HR02    |Implemented|
+       | LR04	    | If user searches for an invalid key "Contact not found" message should be displayed	          | HR03	   |Implemented|
+       | LR05	    | User shall be able to save the files, if file already exists then it should append to file    |         |           |
+       |          | and should not overwrite it and if file does not exists then it should create a new file      |	HR02	   |Implemented|
+       | LR06     |	If opening of the file fails, then the system should display "Error Cannot load the database  |         |           | 
+       |          | file" and should not end the program execution	                                               | HR03    |Implemented|                    
+       | LR07	    | A clean graphical user interface with all required buttons for ease of use                    |	HR04    |Implemented| 
      
   
