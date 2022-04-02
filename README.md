@@ -1,6 +1,7 @@
 # M1_MiniProMarch_2022
 Naming convention: "My_MiniProjectGoal"
 # PhoneBook system
+![code quality badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/2ac2ae146dc64848839205d534261567)](https://www.codacy.com/gh/arnoorlasravan/M1_MiniProMarch_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arnoorlasravan/M1_MiniProMarch_2022&amp;utm_campaign=Badge_Grade)
 
 
 
