@@ -18,6 +18,7 @@ A phonebook manager is a software program that enables users to easily store and
 * Defining our System
 * System Definition
 
+# SWOT ANALYSIS
 # Phonebook Manager have features like:
 
 * Add a new contact.
