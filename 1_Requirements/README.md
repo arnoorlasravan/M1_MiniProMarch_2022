@@ -48,7 +48,7 @@ A phonebook manager is a software program that enables users to easily store and
 # High Level Requirements
 
                          
-      | ID    |        Description              |  Status       | 
+      | ID    |     Description                 | Status        | 
       |-------|---------------------------------|---------------|        
       | HR01	 |     Main Menu	                  | Implemented   |
       | HR02	 |     Data Storing	               | Implemented   |
