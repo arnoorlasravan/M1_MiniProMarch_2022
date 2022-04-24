@@ -48,7 +48,8 @@ A phonebook manager is a software program that enables users to easily store and
 # High Level Requirements
 
                          
-      | ID    |        Description              |  Status       |  
+      | ID    |        Description              |  Status       | 
+      
       |-------|---------------------------------|---------------|        
       | HR01	 |      Main Menu	                 |  Implemented  |
       | HR02	 |     Data Storing	               | Implemented   |
@@ -59,6 +60,7 @@ A phonebook manager is a software program that enables users to easily store and
 # Low Level Requirements
 
                |  ID      |	                     Description                                                              |	  HR I  |	Status    |
+               
                |----------|-----------------------------------------------------------------------------------------------|---------|-----------|
                | LR01	    | New contact shall be added by providing all the needed information and stored into structure .|  	HR01	 |Implemented|
                | LR02     |	Reading contact data is be possible in 5 ways, first being by searching by first name,        |         |           |
