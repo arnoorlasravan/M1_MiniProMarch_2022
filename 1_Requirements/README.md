@@ -48,12 +48,12 @@ A phonebook manager is a software program that enables users to easily store and
 # High Level Requirements
 
                          
-      |ID  | Description             | Status      | 
-      |----|-------------------------|-------------|        
-      |HR01| Main Menu	              | Implemented |
-      |HR02| Data Storing	           | Implemented |
-      |HR03| Data Retrieval	         | Implemented |
-      |HR04| Graphical User Interface| Future      |
+      |ID  |Description             |Status      | 
+      |----|------------------------|------------|        
+      |HR01|Main Menu	              |Implemented |
+      |HR02|Data Storing	           |Implemented |
+      |HR03|Data Retrieval	         |Implemented |
+      |HR04|Graphical User Interface|Future      |
 
      
 # Low Level Requirements
