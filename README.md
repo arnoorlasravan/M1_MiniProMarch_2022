@@ -18,7 +18,7 @@ Folder             | Description
 |1. | Implementation of SDLC and maaking UML diagrams | Exploring them and linking with the architechture of my project 
 |2. | Errors in opening and retriving file | Implemented File System correctly |
 |3. | issues in running test cases | specifying correct return values for functions
-|4. | Issues in workflows | fixed them by updating the correct file paths
+|4. | Issues in workflows | fixed them by updating the correct file paths.
 
 
 
