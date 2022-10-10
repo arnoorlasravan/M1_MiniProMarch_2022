@@ -69,6 +69,6 @@ A phonebook manager is a software program that enables users to easily store and
                |          | and should not overwrite it and if file does not exists then it should create a new file      | HR02	   |Implemented|
                | LR06     |	If opening of the file fails, then the system should display "Error Cannot load the database  |         |           | 
                |          | file" and should not end the program execution	                                               | HR03    |Implemented|                    
-               | LR07	    | A clean graphical user interface with all required buttons for ease of use                    |	HR04    |Implemented| 
+               | LR07	    | A clean graphical user interface with all required buttons for ease of use.                   |	HR04    |Implemented| 
      
   
