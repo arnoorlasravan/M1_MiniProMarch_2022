@@ -1,7 +1,7 @@
 # M1_MiniProMarch_2022
 Naming convention: "My_MiniProjectGoal"
 # PhoneBook system
-![codacy code quality badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/bfb9d01ad1c5475f90aaad01f332b1dd)](https://www.codacy.com/gh/arnoorlasravan/M1_MiniProMarch_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arnoorlasravan/M1_MiniProMarch_2022&amp;utm_campaign=Badge_Grade)
+([![Codacy Badge](https://app.codacy.com/project/badge/Grade/bfb9d01ad1c5475f90aaad01f332b1dd)](https://www.codacy.com/gh/arnoorlasravan/M1_MiniProMarch_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arnoorlasravan/M1_MiniProMarch_2022&amp;utm_campaign=Badge_Grade)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
